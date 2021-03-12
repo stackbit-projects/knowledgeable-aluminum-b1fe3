@@ -1,6 +1,5 @@
 ---
 title: Fox Village In Japan 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kwPqZyS2ttA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
